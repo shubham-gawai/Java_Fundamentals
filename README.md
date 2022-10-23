@@ -1,6 +1,6 @@
 # Java-Fundamentals
 
-🦩🦩🦩🦩🦩
+🌼🌼🌼
 
 ## Contents :
 
@@ -9,7 +9,7 @@
 • other ..
 
 
-✓ Note : some codes might have done half, don't use directly before verifying .
+✓ Note : some codes might have done half, don't use directly without verification .
 
 
 •••😁🙃•••
