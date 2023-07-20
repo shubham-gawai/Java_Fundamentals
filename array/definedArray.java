@@ -1,5 +1,5 @@
 // take a pre defined array and print all the array elements :
-// package array;
+package array;
 
 public class definedArray {
 

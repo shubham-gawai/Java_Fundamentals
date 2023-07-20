@@ -8,7 +8,7 @@
 
 package practiceQues;
 
-public class decrRightTriangle {
+public class rightTriangle {
 	public static void main(String args[]) {
 
 		int n = 5;

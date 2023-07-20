@@ -19,6 +19,7 @@ public class dollarPattern {
 
 			System.out.println();
 		}
-		// (((((((((((do make correction)))))))))))
+		
 	}
+		// - make a correction to view it as a hollow rectangle
 }
